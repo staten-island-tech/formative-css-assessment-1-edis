@@ -1,0 +1,13 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+div {
+    background-image: linear-gradient(to right bottom, rgba(68, 85, 90, 0.3), rgba(0,0,0,0.3)), url("media/ocean_image.jpeg");
+    height: 100vh;
+}
+
+.comsci-image{
+    height: 100px;
+}
