@@ -1,18 +1,27 @@
+/*
+    CSS File for index.html
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     text-transform: uppercase;
     text-align: center;
+    font-family: 'Bebas Neue';
 }
 
 div {
-    background-image: linear-gradient(to right bottom, rgba(68, 85, 90, 0.3), rgba(0,0,0,0.3)), url("media/ocean_image.jpeg");
+    background-image: linear-gradient(to right bottom, rgba(68, 85, 90, 0.3), rgba(0,0,0,0.3)),
+    url("media/ocean_image.jpeg");
     height: 100vh;
-    background-size: cover;
+    text-align: center;
+    list-style-type: ;
 }
 
-img{
+img {
     height: 200px;
     filter: opacity(50%);
 }
-
-
-
